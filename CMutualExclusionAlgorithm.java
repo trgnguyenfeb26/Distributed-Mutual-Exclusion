@@ -76,7 +76,7 @@ public class CMutualExclusionAlgorithm {
             }
             else // Now you may Try... 
             {
-                System.out.println("Now you");
+                System.out.println("Loading...");
                 if(!MEManager.IsMissionComplete()) // If this process 40 times Successfuly entered CS? 
                 {
                     //Send request only one time and then change your state to PS_TRYING

@@ -36,9 +36,9 @@ public class CMutualExclusionManager implements Observer{
     // Constants of the algorithm(Feel free to change them entirely)
     private static int                      UNIT_OF_TIME = 10;   
     public static final int                 MAX_CRITICAL_SECTION_TIME = 3;
-    public static final int                 MAX_PROCESS_NUMBER = 2;
+    public static final int                 MAX_PROCESS_NUMBER = 5;
     //Refer to project definition
-    public static final int                 MAX_REQUIRED_CS_USE = 1;
+    public static final int                 MAX_REQUIRED_CS_USE = 5;
     //Process number between [0-9]
     private int                             m_nProcessId;
     private ProcessState                    m_eProcessState;
