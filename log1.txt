@@ -1,0 +1,8 @@
+[P1][0] entering on 2022-12-19 22:34:59.530
+Sending Mission Completion to Node 0
+------------------------------------------------
+[0]:TOKENS[-X] Tx(1) Including REQ: 1 REP: 0 Rx(1) Including REQ: 0 REP: 1 Latancy(ms) = 76
+------------------------------------------------
+Total Sent: 2
+Total Rcvd: 2
+------------------------------------------------
